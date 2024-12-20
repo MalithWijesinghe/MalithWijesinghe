@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MalithWijesinghe
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning java, python, javascript, react and react native.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Java, Python, JavaScript, ReactJs and React Native.
 - 💞️ I’m looking to collaborate on web development and android development projects.
 - 📫 You can reach me through my github account.
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a night owl 😎
 
 <!---
